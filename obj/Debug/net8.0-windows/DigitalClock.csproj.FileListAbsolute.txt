@@ -12,3 +12,4 @@ E:\Code\Windows Apps\DigitalClock\obj\Debug\net8.0-windows\refint\DigitalClock.d
 E:\Code\Windows Apps\DigitalClock\obj\Debug\net8.0-windows\DigitalClock.pdb
 E:\Code\Windows Apps\DigitalClock\obj\Debug\net8.0-windows\DigitalClock.genruntimeconfig.cache
 E:\Code\Windows Apps\DigitalClock\obj\Debug\net8.0-windows\ref\DigitalClock.dll
+E:\Code\Windows Apps\DigitalClock\obj\Debug\net8.0-windows\DigitalClock.sourcelink.json
