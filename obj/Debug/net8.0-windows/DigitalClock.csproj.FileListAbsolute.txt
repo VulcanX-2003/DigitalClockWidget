@@ -1,0 +1,14 @@
+E:\Code\Windows Apps\DigitalClock\bin\Debug\net8.0-windows\DigitalClock.exe
+E:\Code\Windows Apps\DigitalClock\bin\Debug\net8.0-windows\DigitalClock.deps.json
+E:\Code\Windows Apps\DigitalClock\bin\Debug\net8.0-windows\DigitalClock.runtimeconfig.json
+E:\Code\Windows Apps\DigitalClock\bin\Debug\net8.0-windows\DigitalClock.dll
+E:\Code\Windows Apps\DigitalClock\bin\Debug\net8.0-windows\DigitalClock.pdb
+E:\Code\Windows Apps\DigitalClock\obj\Debug\net8.0-windows\DigitalClock.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Windows Apps\DigitalClock\obj\Debug\net8.0-windows\DigitalClock.AssemblyInfoInputs.cache
+E:\Code\Windows Apps\DigitalClock\obj\Debug\net8.0-windows\DigitalClock.AssemblyInfo.cs
+E:\Code\Windows Apps\DigitalClock\obj\Debug\net8.0-windows\DigitalClock.csproj.CoreCompileInputs.cache
+E:\Code\Windows Apps\DigitalClock\obj\Debug\net8.0-windows\DigitalClock.dll
+E:\Code\Windows Apps\DigitalClock\obj\Debug\net8.0-windows\refint\DigitalClock.dll
+E:\Code\Windows Apps\DigitalClock\obj\Debug\net8.0-windows\DigitalClock.pdb
+E:\Code\Windows Apps\DigitalClock\obj\Debug\net8.0-windows\DigitalClock.genruntimeconfig.cache
+E:\Code\Windows Apps\DigitalClock\obj\Debug\net8.0-windows\ref\DigitalClock.dll
