@@ -35,7 +35,7 @@ partial class Form1
 
 
         this.labelTime.AutoSize = true;
-        this.labelTime.Font = new System.Drawing.Font("Roboto", 50F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+        this.labelTime.Font = new System.Drawing.Font("Terminal", 50F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.World);
         this.labelTime.ForeColor = System.Drawing.Color.White;
         this.labelTime.Location = new System.Drawing.Point(50, 20); // Adjust location as needed
         this.labelTime.Name = "labelTime";
